@@ -1,0 +1,13 @@
+{
+    "name": "safal/admin",
+    "description": "Admin package for starter",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name" : "Safal Pokharel",
+            "email" : "pokharelsafal66@gmail.com"
+        }
+    ],
+    "require": {}
+}
